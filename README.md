@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a full stack software engineer 👨‍💻
 - 🔭 I’m currently working on NodeJS applications & Discord bots using Kotlin.
 - 🌱 I’m currently learning Kotlin, Typescript.
-- 📫 How to reach me: by [email](mailto:ddivad195@gmail.com) or ddivad#0001 on Discord.
+- 📫 How to reach me: by [email](mailto:ddivad195@gmail.com).
 
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=ddivad195&count_private=true&show_icons=true&theme=dracula&hide=issues)
