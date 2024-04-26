@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a full stack software engineer 👨‍💻
+I'm a Software Engineer @Github :octocat: where I work on ~~Actions~~ ~~Packages~~ Billing 👨‍💻
+
+In my free time:
+- 💻 I'm an Admin at [The Programmer's Hangout](https://theprogrammershangout.com/) (discord.gg/programming).
 - 🔭 I’m currently working on NodeJS applications & Discord bots using Kotlin.
-- 🌱 I’m currently learning Kotlin, Typescript.
+- 🌱 I’m currently learning Kotlin, Go.
 - 📫 How to reach me: by [email](mailto:ddivad195@gmail.com).
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=ddivad195&count_private=true&show_icons=true&theme=dracula&hide=issues)
