@@ -23,7 +23,9 @@ In my free time:
 - 🌱 I’m currently learning Kotlin, Go.
 - 📫 How to reach me: by [email](mailto:ddivad195@gmail.com).
 
+
+<!--
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=ddivad195&count_private=true&show_icons=true&theme=dracula&hide=issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddivad195&layout=compact&show_icons=true&theme=dracula&hide=issues&card_width=445&exclude_repo=Coursera_Machine_Learning,ProjectEuler)
-
+-->
